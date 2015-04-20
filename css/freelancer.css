@@ -3,6 +3,7 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,700,300);
 
 body {
     overflow-x: hidden;
@@ -63,7 +64,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #18bc9c;
+/*    background-color: #efefef;*/
 }
 
 hr.star-primary {
@@ -72,7 +73,7 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #2c3e50;
-    background-color: #fff;
+    /*background-color: #efefef;*/
 }
 
 .img-centered {
@@ -82,7 +83,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: url('mac.jpg') no-repeat center center;
 }
 
 header .container {
@@ -181,7 +182,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background: url('sky.jpeg') no-repeat;
 }
 
 section.success a,
@@ -457,3 +458,6 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+
+/*some more shit*/

@@ -460,8 +460,23 @@ footer .footer-below {
 }
 
 
-/*some more shit*/
+/*list styles*/
 .list-group li {
   margin-bottom: 30px;
 }
+
+.toolswrap {
+    width: 75%;
+    margin: auto;
+}
+
+.techtools {
+    border-top: 3px solid #2c3e50;
+    border-bottom: 3px solid #2c3e50;
+    padding: 20px 0;
+    text-align: center;
+    line-height: 1.2em;
+}
+
+
 
